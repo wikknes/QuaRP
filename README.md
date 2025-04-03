@@ -1,4 +1,4 @@
-# QuaRP Cookbook: Understanding Quantum State Refinement
+# QuaRP Readme: Understanding Quantum State Refinement
 
 Welcome to the QuaRP (Quantum Refinement Protocol) cookbook! This guide will explain the principles, working mechanisms, applications, and use cases of quantum state refinement in an accessible way.
 
