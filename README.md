@@ -39,7 +39,7 @@ The protocol follows these steps:
 QuaRP uses a feedback Hamiltonian (an operator that determines how the system evolves):
 
 ```
-H_fb = i * k_fb * (rho_target * rho - rho * rho_target)
+H_fb = i * k_fb * (rho_target - rho )^2
 ```
 
 Where:
